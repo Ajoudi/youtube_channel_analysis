@@ -37,7 +37,7 @@ The graph below is a barchart of the category of video titles
 
 ![alt text](./images/category_barchart.png)
 
-The graph below is the average duration of a caption line. Measures how fast a caption sentence is said 
+The graph below is the average duration of a caption line. Measures how fast a caption sentence is said  (duration in (ms))
 
 ![alt text](./images/avg_durations.png)
 
@@ -45,11 +45,11 @@ The graph below is the average words per caption line. Measures how many words a
 
 ![alt text](./images/avg_words_per_line.png)
 
-The graph below is the total transcript duration 
+The graph below is the total transcript duration (duration in (ms))
 
 ![alt text](./images/total_transcript_duration.png)
 
-The graph below is the duration that the title gets first mentioned in the video 
+The graph below is the duration that the title gets first mentioned in the video (duration in (ms))
 
 ![alt text](./images/title_first_found.png)
 
