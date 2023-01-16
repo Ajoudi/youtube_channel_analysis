@@ -45,11 +45,11 @@ The graph below is the average words per caption line. Measures how many words a
 
 ![alt text](./images/avg_words_per_line.png)
 
-The graph below is the total transcript duration (duration in (ms))
+The graph below is the total transcript duration (duration in (minutes))
 
 ![alt text](./images/total_transcript_duration.png)
 
-The graph below is the duration that the title gets first mentioned in the video (duration in (ms))
+The graph below is the duration that the title gets first mentioned in the video (duration in (minutes))
 
 ![alt text](./images/title_first_found.png)
 
